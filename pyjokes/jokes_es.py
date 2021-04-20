@@ -14,7 +14,11 @@ neutral = [
     'Solo hay 10 tipos de personas en el mundo: las que entienden trinario, las que no, y las que lo confunden con binario.',
     'Una mujer dice a su marido informatico: - Ve al supermercado y trae una barra de pan, y si hay huevos, doce. Trajo doce barras de pan.',
     'Quien demonios es el general Failure, y que hace intentando leer de mi disco duro?',
-    'En que se diferencian Windows y un virus? En que el virus funciona, y es gratis.'
+    'En que se diferencian Windows y un virus? En que el virus funciona, y es gratis.',
+    'Chuck Norris no necesita saber sobre patrones de diseño de clases, él puede instanciar interfaces.',
+    'Chuck Norris solo usa lenguajes de programación fuertemente tipados.',
+    'Cómo llamas a ocho hobbyts? Un hobbyte.',
+    'Cómo se llaman los programadores suecos? NERD-icos.',
 ]
 
 jokes_es = {
